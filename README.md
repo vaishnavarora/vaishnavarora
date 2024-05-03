@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
  
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h1> <img src="https://github.com/vaishnavarora/vaishnavarora/blob/main/resources/codes.webp" width="70px">𝖍𝖊𝖞 𝖙𝖍𝖊𝖗𝖊, 𝖙𝖍𝖎𝖘 𝖎𝖘 𝖛𝖆𝖎𝖘𝖍𝖓𝖆𝖛 𝖆𝖗𝖔𝖗𝖆
+<h1> <img src="https://github.com/vaishnavarora/vaishnavarora/blob/main/resources/codes.webp" width="70px">𝖍𝖊𝔂 𝖙𝖍𝖊𝖗𝖊, 𝖙𝖍𝖎𝖘 𝖎𝖘 𝖛𝖆𝖎𝖘𝖍𝖓𝖆𝖛 𝖆𝖗𝖔𝖗𝖆
 
  </h1><p align="center">
 
