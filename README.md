@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA500&multiline=true&width=550&height=200&lines=HEY+THERE++%E2%9C%A8++;I'M+VAISHNAV+ARORA+FROM+ABOHAR%2CPUNJAB%2CINDIA+%F0%9F%92%AB;I'M+PURSING+MY+BATCHELORS+OF+ENGINEERING+IN+CS%F0%9F%8E%93;MY+INTREST+IS+IN+PYTHON+AND+MACHINE+LEARNING;AND+I+HAVE+COMPLETED+JAVA%2CSAP+BW%2CSQL+FROM+INDUSTRY+PROFESSIONAL+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=FFA500&multiline=true&width=550&height=200&lines=HEY+THERE++%E2%9C%A8++;I'M+VAISHNAV+ARORA+FROM+ABOHAR%2CPUNJAB%2CINDIA+%F0%9F%92%AB;I'M+PURSING+MY+BATCHELORS+OF+ENGINEERING+IN+CS%F0%9F%8E%93;MY+INTREST+IS+IN+PYTHON+AND+MACHINE+LEARNING;AND+I+HAVE+COMPLETED+JAVA%2CSAP+BW%2CSQL+)](https://git.io/typing-svg)
  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -51,8 +51,3 @@ Here are some ideas to get you started:
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
- 
-  
-
- 
- <p><img align="center" src="https://te.legra.ph/file/2d22300f528a89139fbad.jpg"></p>
