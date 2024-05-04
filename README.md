@@ -41,13 +41,41 @@ Here are some ideas to get you started:
   <h1> <img src = "https://github.com/vaishnavarora/vaishnavarora/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
  [<img src="https://github-readme-stats.vercel.app/api?username=vaishnavarora&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=FFA500&bg_color=000000" width="49%">](https://github.com/vaishnavarora)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavarora&theme=chartreuse-dark&hide_border=True&bg_color=FFA500" width="49%">](https://github.com/vaishnavarora)
+
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<div align="center">
+<h2>👷 GitHub Profile:</h2>
+
+![Vaishnavi's github trophy](https://github-profile-trophy.vercel.app/?username=vaishnavi-vaishnav&row=1)
+</div>
  
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
    <h1> <img src="https://github.com/vaishnavarora/vaishnavarora/blob/main/resources/contact.gif#:~:text=/-,contact.gif,-Go%20to%20file" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
-<p><a href="https://t.me/dr_psycho_15"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" width="120""/></a></p> <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=If+there+is+any+problem✨;contact+me+on+telegram+%E2%9D%A4%EF%B8%8F"> 
+   
+<br>
+<div align="center">
+ 
+<a href="https://www.linkedin.com/in/vaishnav-arora/">
+  <img alt="Vaishnav's Linkdein"  width="90px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
 
- </p>
+<a href="https://github.com/vaishnavarora">
+  <img alt="Vaishnav's Github" width="80px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/vaishnavgaba/">
+  <img alt="Vaishnav's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+ 
+<a href="mailto:vaishnavarora4@gmail.com">
+  <img alt="Vaishnav's mail" width="73px" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+
+</div>
+ 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
