@@ -89,10 +89,7 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white ) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white ) ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white ) ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white ) ![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white ) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-3ea6eb?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white ) ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
 ![SAP BW](https://img.shields.io/badge/SAP_BW-black?style=for-the-badge&logo=SAP&logoColor=blue&logoSize=200)
-![SAC](https://img.shields.io/badge/SAP_Analytics_Cloud-black?style=for-the-badge&logo=SAP&logoColor=blue&logoSize=200)
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white ) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![SAC](https://img.shields.io/badge/SAP_Analytics_Cloud-black?style=for-the-badge&logo=SAP&logoColor=blue&logoSize=200) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white ) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 </div>
 
 ![Footer Wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg )
