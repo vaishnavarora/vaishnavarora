@@ -75,7 +75,15 @@ Here are some ideas to get you started:
 </a>
 
 </div>
- 
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+ <div align="center"><h2><b><samp>Skills | Languages | Tools</samp></b></h2></div>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white ) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white ) ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white ) ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white ) ![Git](https://img.shields.io/badge/Git-e84e31?style=for-the-badge&logo=git&logoColor=white ) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-3ea6eb?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white ) ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
+![SAP BW](https://img.shields.io/badge/SAP_BW-8A2BE2?&style=for-the-badge&logo=PyCharm&logoColor=white)
+</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
