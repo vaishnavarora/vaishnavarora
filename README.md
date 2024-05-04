@@ -40,8 +40,7 @@ Here are some ideas to get you started:
   
   <h1> <img src = "https://github.com/vaishnavarora/vaishnavarora/blob/main/resources/analytics.webp" width="57px"> <P ALIGN="middle"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
- [<img src="https://github-readme-stats.vercel.app/api?username=vaishnavarora&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=FFA500&bg_color=000000" width="49%">](https://github.com/vaishnavarora)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavarora&theme=chartreuse-dark&hide_border=True&bg_color=FFA500" width="49%">](https://github.com/vaishnavarora)
- <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavarora&layout=compact&theme=react" />
+ [<img src="https://github-readme-stats.vercel.app/api?username=vaishnavarora&&show_icons=true&title_color=60f542&icon_color=bb2acf&text_color=FFA500&bg_color=000000" width="49%">](https://github.com/vaishnavarora)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavarora&theme=chartreuse-dark&hide_border=True&bg_color=FFA500" width="49%">](https://github.com/vaishnavarora) [<img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavarora&layout=compact&theme=react" />]
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
