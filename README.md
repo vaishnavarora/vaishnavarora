@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <p align="middle"><a href="https://github.com/vaishnavarora"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=orange"></a>
- <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://profile-counter.glitch.me/vaishnavarora/count.svg"><br>
+ <p align="center">ᴠɪsɪᴛᴏʀs<br><img src="https://visitor-badge.laobi.icu"><br>
 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
