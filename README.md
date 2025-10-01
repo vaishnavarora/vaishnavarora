@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p align="center">
   ᴠɪsɪᴛᴏʀs<br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vaishnavarora&left_color=black&right_color=orange&left_text=Profile%20Views">
-  <p>Since October 1, 2025 </p>p
+  Since October 1, 2025
 </p>
 
 
